@@ -51,6 +51,9 @@ More than 3 unexcused absences a student will receive a failing grade.
 Assignments will be posted on GitHub with URLs submitted via Blackboard. Grades and comments will be posted on Blackboard. 5% will be deducted per late assignment per day. 
 <br/>
 
+<b>Computer/Classroom etiquette:</b> Students are expected to refrain from using the computer during class presentations and discussions. Students will need to be working using a computer, but <a href="https://medium.com/@cshirky/why-i-just-asked-my-students-to-put-their-laptops-away-7f5f7c50f368#.sxywlun1f">this is worth a read</a>.
+
+
 <h3>Software</h3>
 
 We will be coding purely in <a href="https://processing.org/" target="_blank">Processing</a>.
@@ -68,33 +71,35 @@ O’Reilly
 Tutorials and readings will be posted here on weekly class notes. Besides the textbook, if you prefer to learn through video, you may find <a href="https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=2" target="_blank">Dan Shiffman's Processing tutorials</a> very helpful and funny. Also, it's handy to have the <a href="https://processing.org/reference/" target="_blank">Processing reference</a> handy while coding.
 
 <h2>Weekly Schedule</h2>
-Week 1 (August 31th): Syllabus review and introduction to HTML and Github
+Week 1 (August 31th): Intro to Processing and the Programming Development Environment and Github
 
-Week 2 (September 7th): Introduction to CSS
+Week 2 (September 7th): Basic drawing primitives, variables, loops, functions, conditionals and user input.
 
-Week 3 (September 14th): HTML and inline CSS
+Week 3 (September 14th): Intro to Register Machines and group problem solving session.
 
-Week 4 (September 21st): External CSS
+Week 4 (September 21st): Processing variables, Math primitives, loops and repetition.
 
-Week 5 (September 28th): Media elements in HTML and CSS
+Week 5 (September 28th): Global variables, functions and user input, conditionals, bounds testing, device tracking
+(mouse).
 
-Week 6 (October 5th): Dynamic CSS
+Week 6 (October 5th): Loading images, transparency, fonts, strings, file types.
 
-Week 7 (October 19th): Forms and fonts
+Week 7 (October 19th): Frame rate, speed and direction, tweeting, random functions, timers
 
-Week 8 (October 26th): Grid systems
+Week 8 (October 26th): Translate location, multiple translations, isolating transformations.
 
-Week 9 (November 2nd): Midterm Project Presentations
+Week 9 (November 2nd): Midterm Project Presentations, User defined functions; combine various built in functions to create custom
+functions.
 
-Week 10 (November 9th): Introduction to JavaScript
+Week 10 (November 9th): Object-oriented programming (OOP) in Processing is introduced.
 
-Week 11 (November 16th): JavaScript in a webpage
+Week 11 (November 16th): Concept of array storage and retrieval is introduced; array of objects.
 
-Week 12 (November 23rd): Intro to Bootstrap
+Week 12 (November 23rd): Code for graphical interface elements; rollovers, buttons dragging and scrollbars.
 
-Week 13 (November 30th): Bootstrap for responsive, mobile first websites 
+Week 13 (November 30th): 3D, lighting, camera, image export, draw tp PDF, multiple files.
 
-Week 14 (December 7th): Review and final projects workshop (other topics such as p5.js and SASS)
+Week 14 (December 7th): Cellular automata, autonomous agents.
 
 Week 15 (December 14th): Final project presentations
 
