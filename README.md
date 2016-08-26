@@ -65,11 +65,7 @@ O’Reilly
 
 <h3>Resources</h3>
 
-Tutorials and readings will be posted on weekly class notes. There is no official textbook for this class. Students interested in text book resources should consider <a href="http://www.htmlandcssbook.com/" target="_blank">this HTML & CSS book</a> and <a href="http://www.htmlandcssbook.com/" target="_blank">this JavaScript and JQuery</a> book. Also you can consult <a href="https://developer.mozilla.org/en-US/docs/Web" target="_blank">Mozilla</a> documentation or <a href="http://www.w3schools.com/" target="_blank">w3schools</a> (Mozilla is better at keeping up to date documentation, w3school is sometimes easier to find visa <a href="https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=title%20tag%20html" target="_blank">google searches</a>). 
-
-<h3>Computer Labs</h3>
-
-Additional lab hours are available in the Library, CC15, CC15A and C220 if these labs are not being used for instructional purposes (will look into plain text editors available on computers).
+Tutorials and readings will be posted here on weekly class notes. Besides the textbook, if you prefer to learn through video, you may find <a href="https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=2" target="_blank">Dan Shiffman's Processing tutorials</a> very helpful and funny. Also, it's handy to have the <a href="https://processing.org/reference/" target="_blank">Processing reference</a> handy while coding.
 
 <h2>Weekly Schedule</h2>
 Week 1 (August 31th): Syllabus review and introduction to HTML and Github
