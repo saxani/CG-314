@@ -72,6 +72,10 @@ Tutorials and readings will be posted here on weekly class notes. Besides the te
 
 <h2>Weekly Schedule</h2>
 Week 1 (August 31th): Intro to Processing and the Programming Development Environment and Github
+<ul>
+<li><a href="https://github.com/saxani/CG-314/tree/master/Week%201">In-class exercise</a></li>
+<li>HTML & CSS</li>
+<li><a href="https://github.com/saxani/CG-314/tree/master/Week%201">Homework assignment</a></li>
 
 Week 2 (September 7th): Basic drawing primitives, variables, loops, functions, conditionals and user input.
 
