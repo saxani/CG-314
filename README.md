@@ -75,7 +75,7 @@ Week 1 (August 31th): Intro to Processing and the Programming Development Enviro
 <ul>
 <li><a href="https://github.com/saxani/CG-314/tree/master/Week%201">In-class exercise</a></li>
 <li>HTML & CSS</li>
-<li><a href="https://github.com/saxani/CG-314/tree/master/Week%201">Homework assignment</a></li>
+<li>Homework assignment: <a href="https://github.com/saxani/CG-314/tree/master/Week%201">Create a web page</a></li>
 
 Week 2 (September 7th): Basic drawing primitives, variables, loops, functions, conditionals and user input.
 
