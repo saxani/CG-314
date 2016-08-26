@@ -53,10 +53,15 @@ Assignments will be posted on GitHub with URLs submitted via Blackboard. Grades 
 
 <h3>Software</h3>
 
-Text Editors: <a href="https://www.sublimetext.com/" target="_blank">Sublime</a> or <a href="http://brackets.io/" target="_blank">Brackets</a> <br/>
-Browser: Chrome <br/>
-GitHub
+We will be coding purely in <a href="https://processing.org/" target="_blank">Processing</a>.
+GitHub will be used to post assignments.
 <br/>
+
+<h3>Required Textbook</h3>
+
+<em><a href="http://shop.oreilly.com/product/0636920000570.do">Getting Started with Processing Casey Reas & Ben Fry</a></em>
+O’Reilly
+2010
 
 <h3>Resources</h3>
 
