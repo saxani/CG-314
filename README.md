@@ -29,7 +29,7 @@ By the end of the course, students should have a grasp on: <br/>
 
 <br/>
 Course Information: https://github.com/saxani/CG-314/ <br/>
-Course Communication: Google group<br/>
+Course Communication: <a href="https://groups.google.com/a/fitnyc.edu/forum/?hl=en#!forum/programming-concepts-f2016.grp">Google group</a><br/>
 <br/>
 
 <h3>Policies, etc </h3>
