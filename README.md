@@ -48,7 +48,7 @@ More than 3 unexcused absences a student will receive a failing grade.
   <li>Final Project - 30%</li>
 </ul>
 
-Assignments will be posted on GitHub with URLs submitted via Blackboard. Grades and comments will be posted on Blackboard. 5% will be deducted per late assignment per day. 
+Assignments will be posted on GitHub with URLs submitted via Blackboard. Grades and comments will be posted on Blackboard. 5% will be deducted per late assignment per day. Homework and assignments must be handed in by 12:00am the day of class (so Tuesday night).
 <br/>
 
 <b>Computer/Classroom etiquette:</b> Students are expected to refrain from using the computer during class presentations and discussions. Students will need to be working using a computer, but <a href="https://medium.com/@cshirky/why-i-just-asked-my-students-to-put-their-laptops-away-7f5f7c50f368#.sxywlun1f">this is worth a read</a>.
