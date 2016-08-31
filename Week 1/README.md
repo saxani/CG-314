@@ -12,12 +12,12 @@ Week 1 in class:
 <ul>
 <li>Follow example 2-2 in the book <i>Getting Started with Processing</i></li>
 <ul>
-<li>Can you use different shapes?</li>
+<li>Can you draw different shapes?</li>
 <li>Can you make different color schemes</li>
 <li>Make a folder and post your assignment (.pde file) to your Github and email me the link. </li>
 </ul>
 <li>Get yourself a github account.</li>
-<li>Sign up for the google group.</li>
+<li>Sign up for the <a href="https://groups.google.com/a/fitnyc.edu/forum/?hl=en#!forum/programming-concepts-f2016.grp">google group</a>.</li>
 <li>Read Intro-Chapter 3 in Getting Started with Processing</li>
 <li>Bonus</li>
 <ul>
