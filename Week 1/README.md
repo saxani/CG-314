@@ -12,6 +12,12 @@ Week 1 in class:
 </ul>
 <li>In class presentation: <a href="https://docs.google.com/presentation/d/1FyaqGolcMBkgxfLaotgdHtX3fPRFB66tbOZKZn4HTMA/edit#slide=id.p">slides</a></li>
 <li>Getting started with Github</li>
+<ul>
+<li>Sign up on github.com</li>
+<li>Make an account</li>
+<li>In your master directory, make a new folder with this class - press button create new file - Name it an add / at end for folder</li>
+<li>Make a new folder for each week and put homework in there</li>
+</ul>
 <li>Try Processing out in class</a></li>
 </ul>
 
