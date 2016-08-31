@@ -1,14 +1,23 @@
 
 Week 1 in class:
 <ul>
-<li>Why are we here? What is Programming?</li>
+<li>Introductions and review syllabus</li>
+<li>Some examples</li>
+<ul>
+<li>Phantogram <a href="https://www.behance.net/gallery/Phantogram/14442795">music video</a>.</li>
+<li>Danny Rozin's <a href="http://www.smoothware.com/danny/">work</a>.</li>
+<li><a href="https://vimeo.com/54882144">Firewall</a></li>
+<li><a href="https://uclab.fh-potsdam.de/cf/">City Flows</a></li>
+<li><a href="http://openprocessing.org/">Open Processing</a></li>
+</ul>
 <li>In class presentation: <a href="https://docs.google.com/presentation/d/1FyaqGolcMBkgxfLaotgdHtX3fPRFB66tbOZKZn4HTMA/edit#slide=id.p">slides</a></li>
 <li>Getting started with Github</li>
-<li>Downloading <a href="https://processing.org/">Processing</a></li>
+<li>Try Processing out in class</a></li>
 </ul>
 
 <h2>Homework</h2>
 <ul>
+<li>Download <a href="https://processing.org/">Processing</a> on your own computer</a></li>
 <li>Follow example 2-2 in the book <i>Getting Started with Processing</i></li>
 <ul>
 <li>Can you draw different shapes?</li>
