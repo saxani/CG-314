@@ -3,9 +3,8 @@ Week 1 in class:
 <ul>
 <li>Why are we here? What is Programming?</li>
 <li>In class presentation: <a href="https://docs.google.com/presentation/d/1FyaqGolcMBkgxfLaotgdHtX3fPRFB66tbOZKZn4HTMA/edit#slide=id.p">slides</a></li>
-<li>Using the CSS and JS files, style the webpage </li>
-<li>Use as many assets as you can. Hide the rest </li>
-<li>Post to your GitHub account. Post the link on Slack </li>
+<li>Getting started with Github</li>
+<li>Downloading <a href="https://processing.org/">Processing</a></li>
 </ul>
 
 <h2>Homework</h2>
