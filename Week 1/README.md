@@ -21,5 +21,5 @@ Week 1 in class:
 <li>Read Intro-Chapter 3 in Getting Started with Processing</li>
 <li>Bonus</li>
 <ul>
-<li>Watch Dan Shiffman's videos on Processing. <a href="https://www.youtube.com/watch?v=2VLaIr5Ckbs&list=PLRqwX-V7Uu6ZYJC7L-r6rX6utt6wwJCyi">Intro videos</a>,<a href="https://www.youtube.com/watch?v=a562vsSI2Po&list=PLRqwX-V7Uu6bsRnSEJ9tRn4V_XCGXovs4">Pixels video</a>, <a href="https://www.youtube.com/watch?v=5N31KNgOO0g&list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9">Processing environment videos</a>. 
+<li>Watch Dan Shiffman's videos on Processing. <a href="https://www.youtube.com/watch?v=2VLaIr5Ckbs&list=PLRqwX-V7Uu6ZYJC7L-r6rX6utt6wwJCyi">Intro videos</a>,<a href="https://www.youtube.com/watch?v=a562vsSI2Po&list=PLRqwX-V7Uu6bsRnSEJ9tRn4V_XCGXovs4"> Pixels video</a>, <a href="https://www.youtube.com/watch?v=5N31KNgOO0g&list=PLRqwX-V7Uu6Yo4VdQ4ZTtqRQ1AE4t_Ep9"> Processing environment videos</a>. 
 
