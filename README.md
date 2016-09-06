@@ -73,11 +73,11 @@ Tutorials and readings will be posted here on weekly class notes. Besides the te
 <h2>Weekly Schedule</h2>
 Week 1 (August 31th): Intro to Processing and the Programming Development Environment and Github
 
-Week 2 (September 7th): Basic drawing primitives, variables, loops, functions, conditionals and user input.
+Week 2 (September 7th): Variables and loops
 
-Week 3 (September 14th): Intro to Register Machines and group problem solving session.
+Week 3 (September 14th): Scale, translate, rotate
 
-Week 4 (September 21st): Processing variables, Math primitives, loops and repetition.
+Week 4 (September 21st): Media elements
 
 Week 5 (September 28th): Global variables, functions and user input, conditionals, bounds testing, device tracking
 (mouse).
