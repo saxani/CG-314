@@ -1,4 +1,4 @@
-Week 1 in class:
+Week 2 in class:
 <ul>
 <li>Review homework</li>
 <li>In class presentation: <a href="https://docs.google.com/presentation/d/1FyaqGolcMBkgxfLaotgdHtX3fPRFB66tbOZKZn4HTMA/edit#slide=id.p">slides</a></li>
