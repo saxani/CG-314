@@ -11,6 +11,7 @@ Week 2 in class:
 <ul>
 <li>Use variables</li>
 <li>Change those variables</li>
+<li><b>BONUS:</b>Design your robot so there are about two variables at the top(x&y)and every other coordinate references that.</li>
 <li>Use for statements to make repetitive elements easier</li>
 <li>Try to use vertex </li>
 <li>Make a folder and post your assignment (.pde file) to your Github and post the link to the Google Group in the week 2 discussion. </li>
