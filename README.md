@@ -75,31 +75,29 @@ Week 1 (August 31th): Intro to Processing and the Programming Development Enviro
 
 Week 2 (September 7th): Variables and loops
 
-Week 3 (September 14th): Scale, translate, rotate
+Week 3 (September 14th): Conditionals
 
-Week 4 (September 21st): Media elements
+Week 4 (September 21st): Translate, rotate, scale
 
-Week 5 (September 28th): Global variables, functions and user input, conditionals, bounds testing, device tracking
-(mouse).
+Week 5 (September 28th): Media elements
 
-Week 6 (October 5th): Loading images, transparency, fonts, strings, file types.
+Week 6 (October 5th): Motion
 
-Week 7 (October 19th): Frame rate, speed and direction, tweeting, random functions, timers
+Week 7 (October 19th): Functions
 
-Week 8 (October 26th): Translate location, multiple translations, isolating transformations.
+Week 8 (October 26th): Objects
 
-Week 9 (November 2nd): Midterm Project Presentations, User defined functions; combine various built in functions to create custom
-functions.
+Week 9 (November 2nd): Midterm Project Presentations
 
-Week 10 (November 9th): Object-oriented programming (OOP) in Processing is introduced.
+Week 10 (November 9th): Arrays
 
-Week 11 (November 16th): Concept of array storage and retrieval is introduced; array of objects.
+Week 11 (November 16th): Data
 
-Week 12 (November 23rd): Code for graphical interface elements; rollovers, buttons dragging and scrollbars.
+Week 12 (November 23rd): Interacting 
 
-Week 13 (November 30th): 3D, lighting, camera, image export, draw tp PDF, multiple files.
+Week 13 (November 30th): 3D graphics
 
-Week 14 (December 7th): Cellular automata, autonomous agents.
+Week 14 (December 7th): Lighting & Camera
 
 Week 15 (December 14th): Final project presentations
 
