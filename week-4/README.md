@@ -13,7 +13,7 @@ Week 4 in class:
 <li>Read Chapter 6 and 7 in the book</li>
 <li>Update either your robot or your drawing tool using translations or media elements</li>
 <ul>
-<li>Can you draw the robot with translations?<li>
+<li>Can you draw the robot with translations?</li>
 <li>Can you draw images or write text in your paint program?</li>
 <li>Or can you do both in the same project?</li>
 <li>Make a folder and post your assignment (.pde file and any other elements) to your Github and post the link to the Google Group in the week 4 discussion. </li>
