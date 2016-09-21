@@ -70,6 +70,12 @@ O’Reilly
 
 Tutorials and readings will be posted here on weekly class notes. Besides the textbook, if you prefer to learn through video, you may find <a href="https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=2" target="_blank">Dan Shiffman's Processing tutorials</a> very helpful and funny. Also, it's handy to have the <a href="https://processing.org/reference/" target="_blank">Processing reference</a> handy while coding.
 
+<h3>Tutorials</h3>
+Here are some tutorials that are going to be useful for starting your webpages and creating different components for them
+<ul>
+<li><a href="https://docs.google.com/presentation/d/1IfGw-su8vU48sqdUO4sE-sWOFD5KrzNz_2xuYz__D0U/edit#slide=id.p">Uploading homework to Github</a></li>
+</ul>
+
 <h2>Weekly Schedule</h2>
 Week 1 (August 31th): Intro to Processing and the Programming Development Environment and Github
 
