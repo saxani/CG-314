@@ -83,15 +83,15 @@ Week 2 (September 7th): Variables and loops
 
 Week 3 (September 14th): Conditionals
 
-Week 4 (September 21st): Translate, rotate, scale
+Week 4 (September 21st): Translatations, media elements
 
-Week 5 (September 28th): Media elements
+Week 5 (September 28th): Motion
 
-Week 6 (October 5th): Motion
+Week 6 (October 5th): Functions
 
-Week 7 (October 19th): Functions
+Week 7 (October 19th): Objects Part 1
 
-Week 8 (October 26th): Objects
+Week 8 (October 26th): Objects Part 2
 
 Week 9 (November 2nd): Midterm Project Presentations
 
