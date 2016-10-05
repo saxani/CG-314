@@ -4,6 +4,7 @@ Week 6 in class:
 <li>Using motion + checking boundaries</li>
 <li>Audio: <a href="https://docs.google.com/presentation/d/1tVI8RTaOz-yk_KJK3fokVLvlcHQgxIcItSwM6ZwswoQ/edit#slide=id.p">slides</a></li>
 <li>Functions: <a href="https://docs.google.com/presentation/d/1tVI8RTaOz-yk_KJK3fokVLvlcHQgxIcItSwM6ZwswoQ/edit#slide=id.p">slides</a></li>
+<li>Midterm brainstorm</li>
 </ul>
 
 <h2>Homework</h2>
