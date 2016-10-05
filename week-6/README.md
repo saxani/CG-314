@@ -2,7 +2,7 @@ Week 6 in class:
 <ul>
 <li>Review homework</li>
 <li>Using motion + checking boundaries</li>
-<li>Audio: <a href="https://docs.google.com/presentation/d/1tVI8RTaOz-yk_KJK3fokVLvlcHQgxIcItSwM6ZwswoQ/edit#slide=id.p">slides</a></li>
+<li>Audio: <a href="https://docs.google.com/presentation/d/18Ukbc0HWHjUM5i0jmWJ_C6svjWRxqxCjW-AaMG0hRH8/edit#slide=id.p">slides</a></li>
 <li>Functions: <a href="https://docs.google.com/presentation/d/1tVI8RTaOz-yk_KJK3fokVLvlcHQgxIcItSwM6ZwswoQ/edit#slide=id.p">slides</a></li>
 <li>Midterm brainstorm</li>
 </ul>
