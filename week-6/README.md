@@ -1,5 +1,6 @@
 Week 6 in class:
 <ul>
+<li>Shameless self promotion to vote for <a href="https://futureofstorytelling.org/prize">The Quinn Experiments</a>.
 <li>Review homework</li>
 <li>Using motion + checking boundaries</li>
 <li>Audio: <a href="https://docs.google.com/presentation/d/18Ukbc0HWHjUM5i0jmWJ_C6svjWRxqxCjW-AaMG0hRH8/edit#slide=id.p">slides</a></li>
