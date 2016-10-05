@@ -1,0 +1,29 @@
+float x = startX;
+float y = startY;
+
+float startX = 100;
+float stopX = 700;
+float startY = 100;
+float stopY = 560;
+
+float step = 0.005; //percentage increase
+float pct = 0.0; //percentage travelled
+
+void setup(){
+  size(750,750);
+  noStroke();
+  background(255,80,120);
+}
+
+void draw(){
+  background(255,80,120);
+  fill(200,200,40);
+  ellipse(x,y,50,50);
+  
+  if (pct < 1.0){
+    x = startX = ((stopX - startX) * pct);
+    y = startY = ((stopY - startY) * pct);
+    pct+= step;
+  }
+
+}

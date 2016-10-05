@@ -1,0 +1,57 @@
+//BrittanyDrago
+//Timers
+
+//Variables
+float x = 50;
+float y = 50;
+
+float diameter = 50;
+float radius = diameter/2;
+float xDir = 1;
+float yDir = 1;
+
+int timer1 = 4000;
+int timer2 = 8000;
+
+void setup() {
+  size (640, 480);
+}
+
+void draw() {
+  noStroke();
+  //Ball
+  background(#FF4040);
+  fill(#77E89F);
+  rect(0, 375, 640, 100);
+  fill(#08712E);
+  rect(0, 400, 640, 100);
+  fill(0);
+  ellipse(x, y, 50, 50);
+
+  //Movement with Timer
+  if (millis() > timer2) {
+    xDir = random(-5, 5);
+    yDir = random(-5, 5);
+  } else if (millis()>timer1) {
+    if (xDir<0) {
+      xDir = -5;
+    } else {
+      xDir = 5;
+    }
+    if (yDir<0) {
+      yDir = 05;
+    } else {
+      yDir = 5;
+    }
+  }
+
+  x = x+ xDir;
+  y =y + yDir;
+
+  if (X > width - radius || x < radius) {
+    xDir = -xDir;
+  }
+  if (y > height - radius || y < radius) {
+    yDir = -yDir;
+  }
+}

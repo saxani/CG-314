@@ -1,0 +1,38 @@
+//BrittanyDrago
+//BouncingBall
+
+//Variables
+float x;
+float y;
+
+float diameter = 50;
+float radius = diameter/2;
+float xDir = 3;
+float yDir = 3;
+
+void setup() {
+  size (640, 480);
+  x = width/2;
+  y = height/2;
+}
+
+void draw() {
+  background(#FF4040);
+  noStroke();
+  fill(#77E89F);
+  rect(0, 375, 640, 100);
+  fill(#08712E);
+  rect(0, 400, 640, 100);
+  fill(0);
+  ellipse(x, y, 50, 50);
+
+  //Movement
+  x = x + xDir;
+  y = y + yDir;
+  if (x>width- radius || x< radius) {
+    xDir = -xDir;
+  }
+  if (y > height - radius || y < radius) {
+    yDir = -yDir;
+  }
+}

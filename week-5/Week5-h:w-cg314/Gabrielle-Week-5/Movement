@@ -1,0 +1,41 @@
+float x;
+float y;
+
+float diameter = 50;
+float radius = diameter/2;
+float xDirection = 3;
+float yDirection = 3;
+//float direction = 50; //use with codes 1-3
+
+void setup(){
+  size(750,750);
+  noStroke();
+  background(255,80,120);
+  //x = width/2; //when using code 1 & 2
+  x = 500;
+  y = height/2;
+}
+
+void draw(){
+  background(255,80,120);
+  fill(200,200,40);
+  ellipse(x,y,50,50);
+  //x++; //use with codes 1 & 2
+  //if(x>width){ //code1 = movement where ball disappears halfway across screen
+    //x = 0;
+  //} 
+  //if(x>width + radius){ //code2 = movement when ball fully leaves screen
+    //x = -radius;
+  //}
+  //x = x + direction; //use with code 3
+  //if(x > width -  radius || x < radius){ //code3 = lightning movement
+    //direction = -direction;
+    x = x + xDirection;
+    y = y + yDirection;
+    if(x > height - radius || x < radius){
+      xDirection = -xDirection;
+    }
+    if(y > height - radius || y < radius){
+      yDirection = -yDirection;
+    }
+}

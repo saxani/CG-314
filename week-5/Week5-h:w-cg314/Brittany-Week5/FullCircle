@@ -1,0 +1,33 @@
+//BrittanyDrago
+//FullCircle
+
+//Variables
+
+float angle = 0.0;
+float xOffset;
+float yOffset;
+float scalar = 200;
+float speed = 0.05;
+
+void setup() {
+  size (640, 480);
+  xOffset = width/2;
+  yOffset = height/2;
+}
+
+void draw() {
+  noStroke();
+  //Ball
+  background(#FF4040);
+  float x = xOffset + sin(angle) * scalar;
+  float y = yOffset + cos(angle) * scalar;
+  fill(#77E89F);
+  rect(0, 375, 640, 100);
+  fill(#08712E);
+  rect(0, 400, 640, 100);
+  fill(0);
+  ellipse(x, y, 50, 50);
+
+  //Movement
+  angle+=speed;
+}

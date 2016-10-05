@@ -1,0 +1,36 @@
+float angle = 0.0;
+float xOffset;
+float yOffset;
+float scalar = 50;
+float speed = 0.06;
+
+
+void setup(){
+  size(800,600);
+  xOffset = width/2;
+  yOffset = height/2;
+}
+
+void draw (){
+  background(255,195,116);
+  
+//float y1 = offset +sin(angle) *scalar;
+//float y2 = offset + sin(angle+0.4)*scalar;
+//float y3 = offset +sin(angle+0.8)*scalar;
+
+float x = xOffset + sin(angle) *scalar;
+float y =yOffset+cos(angle)*scalar;
+  
+  
+  //ball
+  stroke(0);
+  fill(121,219,245);
+  //ellipse(width/2-60,y1,50,50);
+  //ellipse(width/2,y2,50,50);
+  //ellipse(width/2+60,y3,50,50);
+  ellipse(x,y,50,50);
+  
+  //movement
+  angle+=speed;
+  
+}

@@ -1,0 +1,42 @@
+
+float angle = 0.0;
+float xOffset;
+float yOffset;
+float scalar = 200;
+float speed = random(1, 255);
+
+
+void setup() {
+  size(1280, 720);
+
+  yOffset = height/2;
+  xOffset = width/2;
+  background(random(10, 50));
+}
+
+void draw() {
+  float x = xOffset +sin(angle) * scalar;
+  float y = yOffset + cos(angle) * scalar;
+  //ball
+
+  strokeWeight(0);
+  fill(1, random(1, 255), 1, 50);
+  ellipse(x-(random(1, 20)), y+(random(50, 100)), random(1, 20), random(1, 20));
+
+  strokeWeight(0);
+  fill(1, random(1, 255), 1, 50);
+  ellipse(x+(random(1, 20)), y-(random(50, 100)), random(1, 20), random(1, 20));
+
+  stroke(random(1, 255), random(1, 255), random(1, 255));
+  fill(random(55, 255), 1, 1, 90);
+  ellipse(x, y, random(1, 20), random(1, 100));
+  stroke(random(1, 255), random(1, 255), random(1, 255));
+  fill(random(1, 255), 1, 1, 50);
+  ellipse(x, y, random(1, 100), random(1, 20));
+  
+    strokeWeight(0);
+  fill(1, 1,random(1, 255), 50);
+  ellipse(x, y, random(1,5), random(1,5));
+
+  angle +=speed;
+}

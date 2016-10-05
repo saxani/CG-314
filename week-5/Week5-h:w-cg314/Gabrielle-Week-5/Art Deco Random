@@ -1,0 +1,29 @@
+float x;
+float y;
+
+float step = 100; //percentage increase
+
+
+void setup(){
+  size(750,750);
+  noStroke();
+  background(255,80,120);
+  x = width/2;
+  y = height/4;
+}
+
+void draw(){
+  //background(255,80,120);
+  stroke(random(1,100));
+  stroke(random(1,255),random(1,255),random(1,255));
+  noFill();
+  //fill(random(1,255),random(1,255),random(1,255));
+  //fill(200,200,40);
+  ellipse(x,y,random(1,100),random(1,100));
+  
+  x+= random(-step,step);
+  y+= random(-step,step);
+  
+  x = constrain(x,0,width);
+  y = constrain(y,0,height);
+  }

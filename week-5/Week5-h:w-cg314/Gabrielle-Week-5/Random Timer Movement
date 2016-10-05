@@ -1,0 +1,54 @@
+float x = 50;
+float y = 50;
+
+float diameter = 50;
+float radius = diameter/2;
+float xDirection = 1;
+float yDirection = 1;
+
+int timer1 = 4000;
+int timer2 = 8000;
+
+void setup(){
+  size(750,750);
+  noStroke();
+  background(255,80,120);
+}
+
+void draw(){
+  background(255,80,120);
+  fill(200,200,40);
+  ellipse(x,y,50,50);
+  
+  if(millis() > timer2){
+    xDirection = random(-5,5);
+    yDirection = random(-5,5);
+  } else if (millis() > timer1) {
+    if (xDirection < 0) {
+      xDirection = -5;
+    } else {
+      xDirection = 5;
+    }
+    if (yDirection < 0) {
+      yDirection = -5;
+    } else {
+      yDirection = 5;
+    }
+  }
+  
+  x = x + xDirection;
+  y = y + yDirection;
+  
+  if(x > width - radius || x < radius) {
+    xDirection = -xDirection;
+  }
+  if(y > height - radius || y < radius) {
+    yDirection = -yDirection;
+  }
+  
+  x = constrain(x,0,width);
+  y = constrain(y,0,height);
+}
+
+
+

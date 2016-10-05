@@ -1,0 +1,121 @@
+//float x;
+//float y;
+
+//float diameter = 50;
+//float radius = diameter/2;
+
+//float direction = 5; //affects the speed of the ball
+
+//float xDirection = 5;
+//float yDirection = 5;
+
+//int startX =0;
+//int startY =0;
+//int stopY = 720/2;
+//int stopX =880/2;
+
+//float x = startX;
+//float y = startY;
+
+//float step = 0.005; //percentage increase (how fast it's going)
+//float pct = 0.0; //percentage travelled
+
+float x;
+float y;
+
+float step = 0;
+
+void setup(){
+  size(880,720);
+  //x=radius; 
+  //y=height/2; //this centers the ball at half the canvas's height
+  x= width/2;
+  y=height/4;
+}
+
+
+
+void draw(){
+
+  
+  
+  
+  // //tweening
+  //if (pct<1.0){
+  //x=startX +((stopX-startX) *pct);
+  //y=startY+((stopY-startY)*pct);
+  //pct+=step;
+//}
+
+
+
+
+   background(245,171,121); //bg is in void draw instead of void setup to prevent it from being static
+   
+  //background lines
+    stroke(255);
+  strokeWeight(3);
+  line (0,0,width,height);
+  line (width,0,0,height);
+
+ 
+  //ball
+  strokeWeight (3);
+  stroke(0);
+  fill(255);
+  ellipse(x,y,70,70);
+  
+  
+  x+= random(-step,step);
+  y+= random(-step,step);
+
+  x=constrain (x,0,width);
+  y=constrain (y,0,height);
+  
+   //timers
+if (millis() >6000){
+   step = 0; //speed
+ } else if(millis() >4000){
+   step=25;
+   fill(0,0,255);
+   ellipse(x+50,y,50,50);
+ } else if(millis() >3000){
+   step= 3;
+    fill(0,255,0);
+   ellipse(x+50,y,50,50);
+ }
+ 
+  // //movement
+  //x++; //makes the ball move along x axis
+  //x=x+3; //increases speed of ball's movement. can also be written as x+=3;
+  //if(x>width){ //this makes the ball come back after it leaves the screen (if x is greater than the width.. aka if x goes past the width
+  //  x=0; //this makes the ball come back from the 0 coordinate at the x axis 
+  //}
+  
+    //movement (alternative)
+  //x++;
+  //if (x>width + radius){ //makes it so that the ball doesnt disappear first as soon as it touches the end of the screen
+  //  x=-radius;
+
+  //}
+ 
+ 
+   //  // movement (alternative 2)
+   //  //makes the ball bounce back after it hits end of the screen
+   //x=x+ direction; //or write x=x+direction++; to make it faster
+   //if(x>width||x<0){
+   //  direction=-direction;
+    
+   //}
+   
+   
+   //x= x+ xDirection;
+   //y= y+ yDirection;
+   //if (x>width-radius || x<radius){
+   //  xDirection= -xDirection;
+   //}
+   //if (y>height - radius || y<radius){
+   //  yDirection= -yDirection;
+   //}
+
+}

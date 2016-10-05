@@ -1,0 +1,42 @@
+//BrittanyDrago
+//BouncingBall
+
+//Variables
+float startX = 100;
+float startY = 100;
+float stopX = 500;
+float stopY = 300;
+
+float x = startX;
+float y = startY;
+
+float pct = 0.0; //Percentage
+float step = 0.005;
+
+
+void setup() {
+  size (640, 480);
+}
+
+void draw() {
+  noStroke();
+  //Movement
+  if (pct < 1.0) {
+    x = startX + ((stopX - startX) * pct);
+    y = startY + ((stopY - startY) * pct);
+    pct+= step;
+  }
+
+  //Ball
+  background(#FF4040);
+  fill(#77E89F);
+  rect(0, 375, 640, 100);
+  fill(#08712E);
+  rect(0, 400, 640, 100);
+  fill(0);
+  ellipse(x, y, 50, 50);
+
+  //RandomMovement
+  //x+= random(-step,step);
+  //y+= random(step,step);
+}
