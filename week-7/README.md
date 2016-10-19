@@ -15,3 +15,40 @@ Week 7 in class:
 </ul>
 </ul>
 
+Group 1:
+Peter
+Brittany
+Alexsandra
+
+Group 2:
+Tom
+Rinay
+Mary
+
+Group 3:
+Christine
+David
+Is
+
+Group 4:
+Nailah
+Enmanuel
+Samantha
+
+Group 5:
+Will
+Leonard
+Amy
+Joelle
+
+Group 6:
+Gabrielle
+Soowan
+Toni
+Amanda
+
+Group 7:
+Jesse 
+Mitchell
+Kevin
+
