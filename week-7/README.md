@@ -34,6 +34,7 @@ Group 4:
 Nailah
 Enmanuel
 Samantha
+John
 
 Group 5:
 Will
