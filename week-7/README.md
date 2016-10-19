@@ -27,7 +27,7 @@ Mary
 
 Group 3:
 Christine
-David
+Chris
 Is
 
 Group 4:
