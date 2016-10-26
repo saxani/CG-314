@@ -89,17 +89,17 @@ Week 5 (September 28th): Motion
 
 Week 6 (October 5th): Functions
 
-Week 7 (October 19th): Objects Part 1
+Week 7 (October 19th): Objects 
 
-Week 8 (October 26th): Objects Part 2
+Week 8 (October 26th): Arrays
 
 Week 9 (November 2nd): Midterm Project Presentations
 
-Week 10 (November 9th): Arrays
+Week 10 (November 9th): Data
 
-Week 11 (November 16th): Data
+Week 11 (November 16th): Interacting
 
-Week 12 (November 23rd): Interacting 
+Week 12 (November 23rd): Built-in camera
 
 Week 13 (November 30th): 3D graphics
 
