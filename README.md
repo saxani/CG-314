@@ -97,13 +97,13 @@ Week 9 (November 2nd): Midterm Project Presentations
 
 Week 10 (November 9th): Data
 
-Week 11 (November 16th): Interacting
+Week 11 (November 16th): Camera and Audio
 
-Week 12 (November 23rd): Built-in camera
+Week 12 (November 23rd): 3D graphics
 
-Week 13 (November 30th): 3D graphics
+Week 13 (November 30th): Data pt. 2
 
-Week 14 (December 7th): Lighting & Camera
+Week 14 (December 7th): Final Project Work class (1-on-1 meetings)
 
 Week 15 (December 14th): Final project presentations
 
