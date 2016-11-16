@@ -5,7 +5,7 @@ Week 11 in class:
 
 <h2>Homework</h2>
 <ul>
-<li>Watch Shiffman's <a href="https://www.youtube.com/watch?v=WH31daSj4nc&index=1&list=PLRqwX-V7Uu6bw0bVn4M63p8TMJf3OhGy8" video videos</li>
+<li>Watch Shiffman's <a href="https://www.youtube.com/watch?v=WH31daSj4nc&index=1&list=PLRqwX-V7Uu6bw0bVn4M63p8TMJf3OhGy8" video videos</a></li>
 <li>Use image manipulation with live or recorded video.</li>
 <ul>
 <li>If it's recorded video, it should contain an element of interactivity with the user</li>
