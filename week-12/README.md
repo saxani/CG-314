@@ -10,4 +10,5 @@ Week 12 in class:
 <li>Let the user navigate the space in some way</li>
 <li>Make a folder and post your assignment (.pde file and any other elements) to your Github and post the link to the Google Group. </li>
 </ul>
+<li>Write a few sentences proposing your final project. Email me or post to the google group.</li>
 </ul>
